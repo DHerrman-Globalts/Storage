@@ -1,1 +1,3 @@
-BurntToast
+ExchangeOnlineManagement
+MSOnline
+PnP.PowerShell
